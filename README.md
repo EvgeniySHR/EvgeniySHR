@@ -1,17 +1,27 @@
 <div align="center">
+
   <img src="https://github.com/EvgeniySHR/EvgeniySHR/raw/main/-4189952926762251116.gif" width="100%">
-</div>
 
-<p align="center">
-  17 • Russia → EU/US<br>
+  <br>
+
+  <code>17 • Russia → EU/US</code>
+  <br>
   <strong>G59 till the grave</strong>
-</p>
 
-<p align="center">
-  <a href="https://open.spotify.com/album/7a1L777DUCs7WYpYKBQd7z">$uicideboy$ - NORMALIZATION</a><br>
-  <em>IWTDINO II • OUT NOW</em>
-</p>
+  <br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/spectral.png" width="100%">
+  <br>
 
-<p align="center">
-  <a href="https://youtube.com/playlist?list=PLhCr4QhKElA---CI1rGK1bUBY7CWwzgMq">▶︎ Full album on YouTube</a>
-</p>
+  <a href="https://music.apple.com/album/it-was-dont-get-me-wrong-i-love-you-ii/1746401082">
+    <img src="https://img.shields.io/badge/Apple_Music-$uicideboy$-black?style=for-the-badge&logo=apple-music&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/playlist?list=PLhCr4QhKElA---CI1rGK1bUBY7CWwzgMq">
+    <img src="https://img.shields.io/badge/YouTube-Full_Album-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+
+  <br><br>
+
+  <h3>Contribution Activity</h3>
+  <img src="https://raw.githubusercontent.com/EvgeniySHR/EvgeniySHR/output/github-contribution-grid-snake.svg" alt="snake" />
+
+</div>
