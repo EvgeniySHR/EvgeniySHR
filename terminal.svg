@@ -1,0 +1,35 @@
+<svg fill="none" viewBox="0 0 450 300" width="450" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          background: #000;
+          color: #f00;
+          font-family: 'Courier New', Courier, monospace;
+          padding: 20px;
+          border: 1px solid #300;
+          height: 250px;
+          text-shadow: 0 0 5px #f00;
+          border-radius: 5px;
+        }
+        .header { font-weight: bold; font-size: 18px; border-bottom: 1px solid #300; padding-bottom: 5px; margin-bottom: 10px; }
+        .line { margin: 5px 0; font-size: 14px; color: #ff3333; }
+        .bar { color: #444; }
+        .active { color: #fff; text-shadow: 0 0 10px #f00; font-weight: bold; }
+        @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+        .cursor { display: inline-block; width: 10px; height: 15px; background: #f00; animation: blink 1s infinite; vertical-align: middle; }
+      </style>
+      <div class="container">
+        <div class="header">✖ SYSTEM_ACCESS: EVGENIY_SHR ✖</div>
+        <div class="line active">> AUTH_LOG: SUCCESSFUL</div>
+        <div class="line">> DEPLOYING_SHADOWROCKET_CORE...</div>
+        <div class="line">> [UPLINK]: 94.140.14.14</div>
+        <div class="line bar">-----------------------------------</div>
+        <div class="line">AUDIO: $UICIDEBOY$ - G*59</div>
+        <div class="line bar">[██████████████████▒] 95%</div>
+        <div class="line bar">-----------------------------------</div>
+        <div class="line active">STATUS: UNTIL THE GRAVE<span class="cursor"></span></div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
