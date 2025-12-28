@@ -19,6 +19,4 @@
     <img src="https://img.shields.io/badge/YouTube-Full_Album-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
-  <br><br>
-
 </div>
