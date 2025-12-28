@@ -6,7 +6,7 @@
 <div>
   
  <div align="right">
- <strong>Northside</strong>
+ <strong>Northside, dont forget where you from.</strong>
 </div>
   <br>
     <a href="https://music.apple.com/album/it-was-dont-get-me-wrong-i-love-you-ii/1746401082">
