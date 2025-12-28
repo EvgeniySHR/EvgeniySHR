@@ -21,7 +21,4 @@
 
   <br><br>
 
-  <h3>Contribution Activity</h3>
-  <img src="https://raw.githubusercontent.com/EvgeniySHR/EvgeniySHR/output/github-contribution-grid-snake.svg" alt="snake" />
-
 </div>
