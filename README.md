@@ -4,12 +4,12 @@
 
   <br>
 
-  <code>17 • Russia → EU/US</code>
+  <code>Junior</code>
   <br>
-  <strong>G59 till the grave</strong>
+  <strong>Northside</strong>
 
   <br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/spectral.png" width="100%">
+ 
   <br>
 
   <a href="https://music.apple.com/album/it-was-dont-get-me-wrong-i-love-you-ii/1746401082">
