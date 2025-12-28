@@ -9,8 +9,6 @@
   <strong>Northside</strong>
 
   <br>
- 
-  <br>
 
   <a href="https://music.apple.com/album/it-was-dont-get-me-wrong-i-love-you-ii/1746401082">
     <img src="https://img.shields.io/badge/Apple_Music-$uicideboy$-black?style=for-the-badge&logo=apple-music&logoColor=white" />
